@@ -4,6 +4,7 @@ module.exports = {
     "interface-name": [false, "always-prefix"],
     "member-access": false,
     "no-console": [false],
+    "no-unused-variable": [true, "react"],
     "no-var-requires": false,
     "quotemark": [true, "single", "jsx-double", "avoid-escape"],
     "variable-name": [
