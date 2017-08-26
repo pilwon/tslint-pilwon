@@ -4,6 +4,7 @@ module.exports = {
     "interface-name": [false, "always-prefix"],
     "member-access": false,
     "no-console": [false],
+    "no-duplicate-imports": false,
     "no-empty": false,
     "no-empty-interface": false,
     "no-submodule-imports": false,
