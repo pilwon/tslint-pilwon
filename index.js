@@ -6,6 +6,7 @@ module.exports = {
     "no-console": [false],
     "no-empty": false,
     "no-empty-interface": false,
+    "no-submodule-imports": false,
     "no-unused-variable": [true, "react"],
     "no-var-requires": false,
     "quotemark": [true, "single", "jsx-double", "avoid-escape"],
