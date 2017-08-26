@@ -8,6 +8,7 @@ module.exports = {
     "no-empty": false,
     "no-empty-interface": false,
     "no-submodule-imports": false,
+    "no-unused-expression": [true, "allow-tagged-template"],
     "no-unused-variable": [true, "react"],
     "no-var-requires": false,
     "quotemark": [true, "single", "jsx-double", "avoid-escape"],
